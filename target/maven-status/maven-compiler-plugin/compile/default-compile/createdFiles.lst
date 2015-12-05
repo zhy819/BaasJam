@@ -1,0 +1,6 @@
+com\baasjam\platform\web\response\BJHttpStatus.class
+com\baasjam\platform\web\response\BJResponse.class
+com\baasjam\platform\web\response\BJResponseMessage.class
+com\baasjam\web\model\UserLoginResponseModel.class
+com\baasjam\platform\web\response\ResponseModel.class
+com\baasjam\application\controller\UserController.class
